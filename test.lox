@@ -1,14 +1,12 @@
-fun makePoint(x, y) {
-  fun closure(method) {
-    if (method == "x") return x;
-    if (method == "y") return y;
-    print "unknown method " + method;
+class Circle {
+  init(radius) {
+    this.radius = radius;
   }
 
-  return closure;
+  area() {
+    return 3.141592653 * this.radius * this.radius;
+  }
 }
 
-var point = makePoint(2, 3);
-print point("x"); // "2".
-print point("y"); // "3".
-print point("a");
+var circle = Circle(4);
+print circle.area();
