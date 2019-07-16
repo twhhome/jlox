@@ -3,43 +3,27 @@
   <component name="ChangeListManager">
     <list default="true" id="f79afb5a-fad3-42f6-8e07-aec7597fbcb0" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/jlox/com/craftinginterpreters/lox/Environment.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jlox/com/craftinginterpreters/lox/Environment.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/jlox/com/craftinginterpreters/lox/Expr$Assign.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jlox/com/craftinginterpreters/lox/Expr$Assign.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/jlox/com/craftinginterpreters/lox/Expr$Binary.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jlox/com/craftinginterpreters/lox/Expr$Binary.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/jlox/com/craftinginterpreters/lox/Expr$Call.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jlox/com/craftinginterpreters/lox/Expr$Call.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/jlox/com/craftinginterpreters/lox/Expr$Grouping.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jlox/com/craftinginterpreters/lox/Expr$Grouping.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/jlox/com/craftinginterpreters/lox/Expr$Literal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jlox/com/craftinginterpreters/lox/Expr$Literal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/jlox/com/craftinginterpreters/lox/Expr$Logical.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jlox/com/craftinginterpreters/lox/Expr$Logical.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/jlox/com/craftinginterpreters/lox/Expr$Unary.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jlox/com/craftinginterpreters/lox/Expr$Unary.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/jlox/com/craftinginterpreters/lox/Expr$Variable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jlox/com/craftinginterpreters/lox/Expr$Variable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/jlox/com/craftinginterpreters/lox/Expr$Visitor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jlox/com/craftinginterpreters/lox/Expr$Visitor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/jlox/com/craftinginterpreters/lox/Expr.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jlox/com/craftinginterpreters/lox/Expr.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/jlox/com/craftinginterpreters/lox/Interpreter$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jlox/com/craftinginterpreters/lox/Interpreter$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/jlox/com/craftinginterpreters/lox/Interpreter$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jlox/com/craftinginterpreters/lox/Interpreter$2.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/jlox/com/craftinginterpreters/lox/Interpreter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jlox/com/craftinginterpreters/lox/Interpreter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/jlox/com/craftinginterpreters/lox/Lox.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jlox/com/craftinginterpreters/lox/Lox.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jlox/com/craftinginterpreters/lox/LoxClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jlox/com/craftinginterpreters/lox/LoxClass.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/jlox/com/craftinginterpreters/lox/Parser$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jlox/com/craftinginterpreters/lox/Parser$1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/jlox/com/craftinginterpreters/lox/Parser.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jlox/com/craftinginterpreters/lox/Parser.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/jlox/com/craftinginterpreters/lox/Stmt$Block.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jlox/com/craftinginterpreters/lox/Stmt$Block.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jlox/com/craftinginterpreters/lox/Resolver.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jlox/com/craftinginterpreters/lox/Resolver.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jlox/com/craftinginterpreters/lox/Stmt$Class.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jlox/com/craftinginterpreters/lox/Stmt$Class.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/jlox/com/craftinginterpreters/lox/Stmt$Expression.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jlox/com/craftinginterpreters/lox/Stmt$Expression.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/jlox/com/craftinginterpreters/lox/Stmt$Function.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jlox/com/craftinginterpreters/lox/Stmt$Function.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/jlox/com/craftinginterpreters/lox/Stmt$If.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jlox/com/craftinginterpreters/lox/Stmt$If.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/jlox/com/craftinginterpreters/lox/Stmt$Print.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jlox/com/craftinginterpreters/lox/Stmt$Print.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/jlox/com/craftinginterpreters/lox/Stmt$Return.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jlox/com/craftinginterpreters/lox/Stmt$Return.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/jlox/com/craftinginterpreters/lox/Stmt$Var.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jlox/com/craftinginterpreters/lox/Stmt$Var.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/jlox/com/craftinginterpreters/lox/Stmt$Visitor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jlox/com/craftinginterpreters/lox/Stmt$Visitor.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/jlox/com/craftinginterpreters/lox/Stmt$While.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jlox/com/craftinginterpreters/lox/Stmt$While.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/jlox/com/craftinginterpreters/lox/Stmt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jlox/com/craftinginterpreters/lox/Stmt.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/jlox/com/craftinginterpreters/tool/GenerateAst.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jlox/com/craftinginterpreters/tool/GenerateAst.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/craftinginterpreters/lox/Environment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/craftinginterpreters/lox/Environment.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/craftinginterpreters/lox/Expr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/craftinginterpreters/lox/Expr.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/craftinginterpreters/lox/Interpreter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/craftinginterpreters/lox/Interpreter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/craftinginterpreters/lox/Lox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/craftinginterpreters/lox/Lox.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/craftinginterpreters/lox/LoxFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/craftinginterpreters/lox/LoxFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/craftinginterpreters/lox/LoxClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/craftinginterpreters/lox/LoxClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/craftinginterpreters/lox/Parser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/craftinginterpreters/lox/Parser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/craftinginterpreters/lox/Resolver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/craftinginterpreters/lox/Resolver.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/craftinginterpreters/lox/Stmt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/craftinginterpreters/lox/Stmt.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/craftinginterpreters/tool/GenerateAst.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/craftinginterpreters/tool/GenerateAst.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.lox" beforeDir="false" afterPath="$PROJECT_DIR$/test.lox" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -59,7 +43,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/craftinginterpreters/lox/Lox.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-418">
+            <state>
               <caret line="26" column="24" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -71,17 +55,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/craftinginterpreters/lox/LoxFunction.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/test.lox">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="1" column="16" lean-forward="true" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+            <state relative-caret-position="462">
+              <caret line="30" selection-start-line="30" selection-end-line="30" />
             </state>
           </provider>
         </entry>
@@ -89,15 +64,13 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/craftinginterpreters/lox/Stmt.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+            <state relative-caret-position="551">
+              <caret line="33" selection-start-line="33" selection-end-line="33" />
               <folding>
                 <element signature="e#543#544#0" expanded="true" />
                 <element signature="e#595#596#0" expanded="true" />
                 <element signature="e#639#640#0" expanded="true" />
                 <element signature="e#698#699#0" expanded="true" />
-                <element signature="e#957#958#0" expanded="true" />
-                <element signature="e#1016#1017#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -106,18 +79,12 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/craftinginterpreters/lox/Parser.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="278">
-              <caret line="343" column="57" selection-start-line="343" selection-start-column="57" selection-end-line="343" selection-end-column="57" />
+            <state relative-caret-position="90">
+              <caret line="342" column="37" lean-forward="true" selection-start-line="342" selection-start-column="37" selection-end-line="342" selection-end-column="37" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#620#621#0" expanded="true" />
                 <element signature="e#655#656#0" expanded="true" />
-                <element signature="e#9552#9553#0" expanded="true" />
-                <element signature="e#9593#9594#0" expanded="true" />
-                <element signature="e#9621#9622#0" expanded="true" />
-                <element signature="e#9663#9664#0" expanded="true" />
-                <element signature="e#9695#9696#0" expanded="true" />
-                <element signature="e#9741#9742#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -126,19 +93,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/craftinginterpreters/lox/Interpreter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="373">
-              <caret line="191" column="36" selection-start-line="191" selection-start-column="36" selection-end-line="191" selection-end-column="36" />
+            <state relative-caret-position="443">
+              <caret line="83" column="9" lean-forward="true" selection-start-line="83" selection-start-column="9" selection-end-line="83" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#683#684#0" expanded="true" />
-                <element signature="e#735#736#0" expanded="true" />
-                <element signature="e#1981#1982#0" expanded="true" />
-                <element signature="e#2019#2020#0" expanded="true" />
-                <element signature="e#1876#1877#0" expanded="true" />
-                <element signature="e#1925#1926#0" expanded="true" />
+                <element signature="e#4011#4012#0" expanded="true" />
                 <element signature="e#4059#4060#0" expanded="true" />
+                <element signature="e#4101#4102#0" expanded="true" />
                 <element signature="e#4141#4142#0" expanded="true" />
+                <element signature="e#4180#4181#0" expanded="true" />
                 <element signature="e#4213#4214#0" expanded="true" />
+                <element signature="e#4255#4256#0" expanded="true" />
                 <element signature="e#4294#4295#0" expanded="true" />
               </folding>
             </state>
@@ -148,8 +113,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/craftinginterpreters/lox/LoxClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="627">
-              <caret line="40" column="29" selection-start-line="40" selection-start-column="29" selection-end-line="40" selection-end-column="29" />
+            <state relative-caret-position="247">
+              <caret line="22" column="47" selection-start-line="22" selection-start-column="47" selection-end-line="22" selection-end-column="47" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -160,35 +125,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/craftinginterpreters/lox/LoxInstance.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
+            <state relative-caret-position="304">
               <caret line="19" column="50" selection-start-line="19" selection-start-column="50" selection-end-line="19" selection-end-column="50" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#239#240#0" expanded="true" />
-                <element signature="e#273#274#0" expanded="true" />
-                <element signature="e#540#541#0" expanded="true" />
-                <element signature="e#567#568#0" expanded="true" />
-                <element signature="e#215#216#0" expanded="true" />
-                <element signature="e#252#253#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/craftinginterpreters/lox/Resolver.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="589">
-              <caret line="103" selection-start-line="103" selection-end-line="103" />
+            <state relative-caret-position="133">
+              <caret line="200" lean-forward="true" selection-start-line="200" selection-end-line="200" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#415#416#0" expanded="true" />
-                <element signature="e#461#462#0" expanded="true" />
-                <element signature="e#3952#3953#0" expanded="true" />
-                <element signature="e#5194#5195#0" expanded="true" />
-                <element signature="e#5266#5267#0" expanded="true" />
-                <element signature="e#5763#5764#0" expanded="true" />
-                <element signature="e#5822#5823#0" expanded="true" />
+                <element signature="e#6105#6106#0" expanded="true" />
+                <element signature="e#6177#6178#0" expanded="true" />
+                <element signature="e#6674#6675#0" expanded="true" />
+                <element signature="e#6733#6734#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -197,16 +153,12 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/craftinginterpreters/lox/Environment.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1045">
+            <state relative-caret-position="931">
               <caret line="59" column="58" selection-start-line="59" selection-start-column="58" selection-end-line="59" selection-end-column="58" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#1033#1034#0" expanded="true" />
                 <element signature="e#1072#1073#0" expanded="true" />
-                <element signature="e#1123#1124#0" expanded="true" />
-                <element signature="e#1149#1150#0" expanded="true" />
-                <element signature="e#1462#1463#0" expanded="true" />
-                <element signature="e#1487#1488#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -242,14 +194,14 @@
         <option value="$PROJECT_DIR$/src/com/craftinginterpreters/lox/Scanner.java" />
         <option value="$PROJECT_DIR$/src/com/craftinginterpreters/lox/Environment.java" />
         <option value="$PROJECT_DIR$/src/com/craftinginterpreters/lox/Lox.java" />
-        <option value="$PROJECT_DIR$/src/com/craftinginterpreters/tool/GenerateAst.java" />
-        <option value="$PROJECT_DIR$/src/com/craftinginterpreters/lox/Parser.java" />
         <option value="$PROJECT_DIR$/src/com/craftinginterpreters/lox/LoxInstance.java" />
-        <option value="$PROJECT_DIR$/src/com/craftinginterpreters/lox/LoxClass.java" />
-        <option value="$PROJECT_DIR$/src/com/craftinginterpreters/lox/Interpreter.java" />
-        <option value="$PROJECT_DIR$/src/com/craftinginterpreters/lox/Resolver.java" />
         <option value="$PROJECT_DIR$/src/com/craftinginterpreters/lox/LoxFunction.java" />
         <option value="$PROJECT_DIR$/test.lox" />
+        <option value="$PROJECT_DIR$/src/com/craftinginterpreters/lox/LoxClass.java" />
+        <option value="$PROJECT_DIR$/src/com/craftinginterpreters/tool/GenerateAst.java" />
+        <option value="$PROJECT_DIR$/src/com/craftinginterpreters/lox/Parser.java" />
+        <option value="$PROJECT_DIR$/src/com/craftinginterpreters/lox/Interpreter.java" />
+        <option value="$PROJECT_DIR$/src/com/craftinginterpreters/lox/Resolver.java" />
       </list>
     </option>
   </component>
@@ -266,10 +218,10 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="953" />
-    <option name="width" value="974" />
-    <option name="height" value="1047" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="676" />
+    <option name="width" value="697" />
+    <option name="height" value="735" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -278,7 +230,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -324,6 +275,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -388,9 +340,9 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.AstPrinter" />
       <item itemvalue="Application.GenerateAst" />
       <item itemvalue="Application.Lox" />
-      <item itemvalue="Application.AstPrinter" />
     </list>
     <recent_temporary>
       <list>
@@ -414,10 +366,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
+    <frame x="676" y="0" width="697" height="735" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.43326038" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.4709576" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -426,7 +378,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32170978" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32845894" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32730561" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3997773" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -543,36 +495,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/craftinginterpreters/lox/LoxCallable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/craftinginterpreters/lox/Lox.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-418">
+        <state>
           <caret line="26" column="24" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/craftinginterpreters/lox/Environment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1045">
-          <caret line="59" column="58" selection-start-line="59" selection-start-column="58" selection-end-line="59" selection-end-column="58" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1033#1034#0" expanded="true" />
-            <element signature="e#1072#1073#0" expanded="true" />
-            <element signature="e#1123#1124#0" expanded="true" />
-            <element signature="e#1149#1150#0" expanded="true" />
-            <element signature="e#1462#1463#0" expanded="true" />
-            <element signature="e#1487#1488#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/craftinginterpreters/tool/GenerateAst.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="24" column="39" selection-start-line="24" selection-start-column="39" selection-end-line="24" selection-end-column="39" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -581,69 +514,98 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/craftinginterpreters/lox/Stmt.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+        <state relative-caret-position="551">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
           <folding>
             <element signature="e#543#544#0" expanded="true" />
             <element signature="e#595#596#0" expanded="true" />
             <element signature="e#639#640#0" expanded="true" />
             <element signature="e#698#699#0" expanded="true" />
-            <element signature="e#957#958#0" expanded="true" />
-            <element signature="e#1016#1017#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/craftinginterpreters/lox/LoxInstance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="19" column="50" selection-start-line="19" selection-start-column="50" selection-end-line="19" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/craftinginterpreters/lox/Environment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="931">
+          <caret line="59" column="58" selection-start-line="59" selection-start-column="58" selection-end-line="59" selection-end-column="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1033#1034#0" expanded="true" />
+            <element signature="e#1072#1073#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.lox">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="10" lean-forward="true" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/craftinginterpreters/lox/LoxFunction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/craftinginterpreters/lox/LoxClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="22" column="47" selection-start-line="22" selection-start-column="47" selection-end-line="22" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/craftinginterpreters/tool/GenerateAst.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="23" column="41" selection-start-line="23" selection-start-column="41" selection-end-line="23" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/craftinginterpreters/lox/Parser.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="278">
-          <caret line="343" column="57" selection-start-line="343" selection-start-column="57" selection-end-line="343" selection-end-column="57" />
+        <state relative-caret-position="90">
+          <caret line="342" column="37" lean-forward="true" selection-start-line="342" selection-start-column="37" selection-end-line="342" selection-end-column="37" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#620#621#0" expanded="true" />
             <element signature="e#655#656#0" expanded="true" />
-            <element signature="e#9552#9553#0" expanded="true" />
-            <element signature="e#9593#9594#0" expanded="true" />
-            <element signature="e#9621#9622#0" expanded="true" />
-            <element signature="e#9663#9664#0" expanded="true" />
-            <element signature="e#9695#9696#0" expanded="true" />
-            <element signature="e#9741#9742#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/craftinginterpreters/lox/LoxCallable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/craftinginterpreters/lox/LoxClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="627">
-          <caret line="40" column="29" selection-start-line="40" selection-start-column="29" selection-end-line="40" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/craftinginterpreters/lox/Interpreter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="373">
-          <caret line="191" column="36" selection-start-line="191" selection-start-column="36" selection-end-line="191" selection-end-column="36" />
+        <state relative-caret-position="443">
+          <caret line="83" column="9" lean-forward="true" selection-start-line="83" selection-start-column="9" selection-end-line="83" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#683#684#0" expanded="true" />
-            <element signature="e#735#736#0" expanded="true" />
-            <element signature="e#1981#1982#0" expanded="true" />
-            <element signature="e#2019#2020#0" expanded="true" />
-            <element signature="e#1876#1877#0" expanded="true" />
-            <element signature="e#1925#1926#0" expanded="true" />
+            <element signature="e#4011#4012#0" expanded="true" />
             <element signature="e#4059#4060#0" expanded="true" />
+            <element signature="e#4101#4102#0" expanded="true" />
             <element signature="e#4141#4142#0" expanded="true" />
+            <element signature="e#4180#4181#0" expanded="true" />
             <element signature="e#4213#4214#0" expanded="true" />
+            <element signature="e#4255#4256#0" expanded="true" />
             <element signature="e#4294#4295#0" expanded="true" />
           </folding>
         </state>
@@ -651,48 +613,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/craftinginterpreters/lox/Resolver.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="589">
-          <caret line="103" selection-start-line="103" selection-end-line="103" />
+        <state relative-caret-position="133">
+          <caret line="200" lean-forward="true" selection-start-line="200" selection-end-line="200" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#415#416#0" expanded="true" />
-            <element signature="e#461#462#0" expanded="true" />
-            <element signature="e#3952#3953#0" expanded="true" />
-            <element signature="e#5194#5195#0" expanded="true" />
-            <element signature="e#5266#5267#0" expanded="true" />
-            <element signature="e#5763#5764#0" expanded="true" />
-            <element signature="e#5822#5823#0" expanded="true" />
+            <element signature="e#6105#6106#0" expanded="true" />
+            <element signature="e#6177#6178#0" expanded="true" />
+            <element signature="e#6674#6675#0" expanded="true" />
+            <element signature="e#6733#6734#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/craftinginterpreters/lox/LoxInstance.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" column="50" selection-start-line="19" selection-start-column="50" selection-end-line="19" selection-end-column="50" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#239#240#0" expanded="true" />
-            <element signature="e#273#274#0" expanded="true" />
-            <element signature="e#540#541#0" expanded="true" />
-            <element signature="e#567#568#0" expanded="true" />
-            <element signature="e#215#216#0" expanded="true" />
-            <element signature="e#252#253#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/craftinginterpreters/lox/LoxFunction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.lox">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="16" lean-forward="true" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
         </state>
       </provider>
     </entry>
